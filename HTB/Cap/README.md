@@ -12,6 +12,10 @@ Cap is a Linux machine that demonstrates how several weaknesses can be chained i
 
 This walkthrough records the investigation flow and why each observation mattered. Sensitive values such as passwords and flag contents are intentionally omitted.
 
+## Published Walkthrough
+
+- **Medium:** [Hack The Box — Cap Penetration Testing Walkthrough](https://medium.com/@ajaydevsv/hack-the-box-cap-penetration-testing-walkthrough-ec493c4acecb?sharedUserId=ajaydevsv)
+
 ## Attack-chain overview
 
 ```text
